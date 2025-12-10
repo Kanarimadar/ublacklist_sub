@@ -1,0 +1,12 @@
+---
+name: I Hate SNS
+description: Hides (most) SNS
+homepage: 
+---
+
+*://*.tiktok.com/*
+*://twitter.com/*
+*://*.x.com/*
+*://*.facebook.com/*
+*://*.instagram.com/*
+*://*.4chan.org/*
