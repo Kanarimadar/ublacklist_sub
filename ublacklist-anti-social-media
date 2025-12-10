@@ -12,6 +12,10 @@ homepage: https://github.com/KlaxKain/ublacklist-anti-social-media
 *://*.4chan.org/*
 *://www.furaffinity.net/*
 
+#Annoying-Religions
+*://www.jw.org/*
+*://creationwiki.org/*
+
 #pinterest
 *://*.pinterest.at/*
 *://*.pinterest.co.at/*
