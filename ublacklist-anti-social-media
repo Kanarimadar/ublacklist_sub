@@ -13,6 +13,8 @@ homepage: https://github.com/KlaxKain/ublacklist-anti-social-media
 *://*.4chan.org/*
 *://*.furaffinity.net/*
 *://*.threads.com/*
+*://*.snapchat.com/*
+*://*.snap.com/*
 
 #Annoying-Religions
 *://www.jw.org/*
