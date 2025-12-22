@@ -19,6 +19,11 @@ https://raw.githubusercontent.com/KlaxKain/ublacklist-anti-social-media/refs/hea
 https://raw.githubusercontent.com/KlaxKain/ublacklist-anti-social-media/refs/heads/main/ublacklist-anti-pinterest
 ```
 
+### I Quit Roblox
+```
+https://raw.githubusercontent.com/KlaxKain/ublacklist-anti-social-media/refs/heads/main/ublacklist-anti-roblox
+```
+
 ## Found a bug?
 
 If you found a bug, [let me know](https://github.com/KlaxKain/ublacklist-anti-social-media/issues)!
